@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "name": "Killua Zoldyck",
+      "profileArray": [
+        {
+          "url": "../../Assets/profile-images/Ellipse -3.png"
+        },
+        {
+          "url": "../../Assets/profile-images/Ellipse -1.png"
+        },
+        {
+          "url": "../../Assets/profile-images/Ellipse -8.png"
+        },
+        {
+          "url": "../../Assets/profile-images/Ellipse -7.png"
+        }
+      ],
+      "allDepartment": [
+        "HR",
+        "Sales",
+        "Finance",
+        "Engineer",
+        "Others"
+      ],
+      "departMentValue": [
+        "Sales"
+      ],
+      "gender": "female",
+      "salary": "30000",
+      "day": "16",
+      "month": "Jun",
+      "year": "2020",
+      "startDate": "",
+      "notes": "HR Head",
+      "id": 2,
+      "profilePic": "../../Assets/profile-images/Ellipse -7.png",
+      "isUpdate": false,
+      "error": {
+        "department": "",
+        "name": "",
+        "gender": "",
+        "salary": "",
+        "profilePic": "",
+        "startDate": ""
+      }
+    },
+    {
+      "name": "Sheetal",
+      "profileArray": [
+        {
+          "url": "../../Assets/profile-images/Ellipse -3.png"
+        },
+        {
+          "url": "../../Assets/profile-images/Ellipse -1.png"
+        },
+        {
+          "url": "../../Assets/profile-images/Ellipse -8.png"
+        },
+        {
+          "url": "../../Assets/profile-images/Ellipse -7.png"
+        }
+      ],
+      "allDepartment": [
+        "HR",
+        "Sales",
+        "Finance",
+        "Engineer",
+        "Others"
+      ],
+      "departMentValue": [
+        "Engineer"
+      ],
+      "gender": "female",
+      "salary": "350000",
+      "day": "25",
+      "month": "Apr",
+      "year": "2021",
+      "startDate": "",
+      "notes": "Electrical engineer",
+      "id": 3,
+      "profilePic": "../../Assets/profile-images/Ellipse -1.png",
+      "isUpdate": false,
+      "error": {
+        "department": "",
+        "name": "",
+        "gender": "",
+        "salary": "",
+        "profilePic": "",
+        "startDate": ""
+      }
+    }
+  ]
+}
